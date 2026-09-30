@@ -77,7 +77,11 @@
             "url": "http://肥猫.net/"
         },
         {
-            "name": "肥猫②",
+            "url": "http://肥猫.net/tv",
+            "name": "肥猫②"
+        },
+        {
+            "name": "肥猫③",
             "url": "https://www.ls660.com/TV/feimao.json"
         },
         {
@@ -105,8 +109,8 @@
             "url": "https://cnb.cool/fish2035/xs/-/git/raw/main/api.json"
         },
         {
-            "name": "分享者",
-            "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/001.json",
+            "name": "分享者线路"
         },
         {
             "name": "宝盒①",
@@ -173,8 +177,12 @@
             "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json"
         },
         {
-            "name": "老刘呗",
+            "name": "老刘呗①",
             "url": "https://raw.liucn.cc/box/m.json"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "老刘呗②"
         },
         {
             "name": "菜妮丝①",
@@ -243,6 +251,10 @@
         {
             "name": "123",
             "url": "http://47.96.82.41:5188/rose/18/xgg.json"
+        },
+        {
+            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+            "name": "短剧专线"
         },
         {
             "name": "少儿频道①",

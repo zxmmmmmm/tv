@@ -73,8 +73,12 @@
             "url": "http://www.xn--sss604efuw.cc/tv"
         },
         {
-            "name": "肥猫",
+            "name": "肥猫①",
             "url": "http://肥猫.net/"
+        },
+        {
+            "name": "肥猫②",
+            "url": "https://www.ls660.com/TV/feimao.json"
         },
         {
             "name": "嗷呜①",
@@ -101,12 +105,8 @@
             "url": "https://cnb.cool/fish2035/xs/-/git/raw/main/api.json"
         },
         {
-            "name": "分享①",
+            "name": "分享者",
             "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json"
-        },
-        {
-            "name": "分享②",
-            "url": "http://hucongrong.web3v.work/%E9%A3%8E%E6%B0%B4/fxz/fxz.json"
         },
         {
             "name": "宝盒①",
@@ -131,10 +131,6 @@
         {
             "name": "心魔在线①",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
-        },
-        {
-            "name": "心魔在线②",
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
         {
             "name": "Clun在线",
@@ -173,12 +169,8 @@
             "url": "https://gh-proxy.org/https://raw.github.com/tly824/TM-TY/main/8.10.json"
         },
         {
-            "name": "我的①",
+            "name": "我的",
             "url": "https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json"
-        },
-        {
-            "name": "我的②",
-            "url": "https://teach.link/7BgCf8"
         },
         {
             "name": "老刘呗",
@@ -205,11 +197,7 @@
             "url": "http://home.jundie.top:81/top98.json"
         },
         {
-            "name": "小马①",
-            "url": "http://szyyds.cn/tv/x.json"
-        },
-        {
-            "name": "小马②",
+            "name": "小马",
             "url": "https://szyyds.cn/tv/x.json"
         },
         {
@@ -265,11 +253,11 @@
             "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json"
         },
         {
-            "name": "二月红",
+            "name": "二月红①",
             "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
         },
         {
-            "name": "vip",
+            "name": "二月红②",
             "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json"
         },
         {
@@ -281,12 +269,8 @@
             "url": "https://www.iyouhun.com/tv/fty"
         },
         {
-            "name": "新地址",
+            "name": "游魂③",
             "url": "http://124.223.214.31:55316/9981"
-        },
-        {
-            "name": "老苏",
-            "url": "https://www.ls660.com/TV/feimao.json"
         },
         {
             "name": "爱奇艺腾讯优酷接口",

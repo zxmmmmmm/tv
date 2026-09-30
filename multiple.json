@@ -109,10 +109,6 @@
             "url": "https://cnb.cool/fish2035/xs/-/git/raw/main/api.json"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/001.json",
-            "name": "分享者线路"
-        },
-        {
             "name": "宝盒①",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json"
         },
@@ -133,16 +129,12 @@
             "url": "https://盒子迷.top/禁止贩卖"
         },
         {
-            "name": "心魔在线①",
+            "name": "心魔在线",
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json"
         },
         {
             "name": "Clun在线",
             "url": "https://clun.top/box.json"
-        },
-        {
-            "name": "FongMI线路",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json"
         },
         {
             "name": "香雅晴①",
@@ -303,10 +295,6 @@
         {
             "name": "小米",
             "url": "http://47.96.82.41:8/api.json"
-        },
-        {
-            "name": "ok内部",
-            "url": "https://www.iyouhun.com/tv/oktv"
         }
     ]
 }

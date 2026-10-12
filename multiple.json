@@ -251,10 +251,6 @@
         {
             "name": "TVBOX多接口③",
             "url": "https://qist.wyfc.qzz.io/jsm.json"
-        },
-        {
-            "name": "小米",
-            "url": "http://47.96.82.41:8/api.json"
         }
     ]
 }
